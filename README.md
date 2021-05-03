@@ -19,7 +19,7 @@ This folder includes the ROI regions used in the Williams 2021 Biological Psychi
 
 <b>Mapping neural circuit biotypes to symptoms and behavioral dimensions of depression and anxiety</b>
 
-Andrea N Goldstein-Piekarski†, Tali M Ball†, Zoe Samara‡, Brooke R Staveland‡, Arielle S. Keller‡, Scott L Fleming‡, Katherine A Grisanzio‡, Bailey Holt-Gosselin‡, Patrick Stetz‡,, Jun Ma‡, & Leanne M Williams
+Andrea N Goldstein-Piekarski<sup>†</sup>, Tali M Ball<sup>†</sup>, Zoe Samara<sup>‡</sup>, Brooke R Staveland<sup>‡</sup>, Arielle S. Keller<sup>‡</sup>, Scott L Fleming<sup>‡</sup>, Katherine A Grisanzio<sup>‡</sup>, Bailey Holt-Gosselin<sup>‡</sup>, Patrick Stetz<sup>‡</sup>, Jun Ma<sup>‡</sup>, & Leanne M Williams
 
 <a id="usage"></a>
 ## [^](#toc) Usage
