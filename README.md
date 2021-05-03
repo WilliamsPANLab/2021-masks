@@ -60,7 +60,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>D3,D4</sub> | AG R with PCC  | Intrinsic FC | | 
 
 <br>
+
 ---
+
 <a id="#salience"></a>
 #### [^](#toc) Salience Circuit
 | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
@@ -85,7 +87,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 |  C<sub>S1,S2</sub> | aI L with aI R  | Intrinsic FC | |
 
 <br>
+
 ---
+
 <a id="#attention"></a>
 #### [^](#toc) Attention Circuit
  | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
@@ -116,7 +120,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>A5,A7</sub> | aIPL R with precuneus R | Intrinsic FC
 
 <br>
+
 ---
+
 <a id="#neg_affect_sad"></a>
 #### [^](#toc) Negative Affect Circuit: Sad
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
@@ -148,7 +154,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>N1,N5</sub>* | [pgACC to Amygdala R + Amygdala R to pgACC]/2 |  PPI | |
 
 <br>
+
 ---
+
 <a id="#neg_affect_threat_conscious"></a>
 #### [^](#toc) Negative Affect Circuit: Threat Conscious
 
@@ -175,7 +183,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>T1,T3</sub> | [dACC to Amygdala R + Amygdala R to dACC]/2  |   PPI | |
 
 <br>
+
 ---
+
 <a id="#neg_affect_threat_nonconscious"></a>
 #### [^](#toc) Negative Affect Circuit: Threat Nonconscious
 
@@ -198,7 +208,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>T1,T3</sub>† | [sgACC to Amygdala R + Amygdala R to  sgACC]/2  | PPI | |
 
 <br>
+
 ---
+
 <a id="#pos_affect_happy"></a>
 #### [^](#toc) Positive Affect Circuit: Happy
 
@@ -219,7 +231,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | A<sub>P3</sub> |    Striatum R |     BOLD activation | |
 
 <br>
+
 ---
+
 <a id="#cognitive_control"></a>
 #### [^](#toc) Cognitive Control Circuit   
 
