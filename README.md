@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 3.7) [Positive Affect Circuit: Happy](#pos_affect_happy)  
 &nbsp;&nbsp;&nbsp;&nbsp; 3.8) [Cognitive Control Circuit](#cognitive_control)  
 
-<a id="#summary"></a>
+<a id="summary"></a>
 ## [^](#toc) Summary  
 
 This folder includes the ROI regions used in the Williams 2021 Biological Psychiatry paper:
@@ -21,7 +21,7 @@ This folder includes the ROI regions used in the Williams 2021 Biological Psychi
 
 Andrea N Goldstein-Piekarski†, Tali M Ball†, Zoe Samara‡, Brooke R Staveland‡, Arielle S. Keller‡, Scott L Fleming‡, Katherine A Grisanzio‡, Bailey Holt-Gosselin‡, Patrick Stetz‡,, Jun Ma‡, & Leanne M Williams
 
-<a id="#usage"></a>
+<a id="usage"></a>
 ## [^](#toc) Usage
 
 Please include the following citation:
@@ -31,10 +31,10 @@ Please include the following citation:
 To download the files, please click [here](https://github.com/WilliamsPANLab/2021-masks/archive/refs/heads/master.zip) or clone the repository
 
 
-<a id="#definitions"></a>
+<a id="definitions"></a>
 ## [^](#toc) Definitions
 
-<a id="#dmn"></a>
+<a id="dmn"></a>
 #### [^](#toc) Default Mode Circuit
 | Circuit Type | Condition | Task Contrast | Neurosynth Search criteria |
 | ------ | ------ | ----- | ----- |
@@ -63,7 +63,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#salience"></a>
+<a id="salience"></a>
 #### [^](#toc) Salience Circuit
 | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
 | --- | --- | --- | --- | 
@@ -90,7 +90,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#attention"></a>
+<a id="attention"></a>
 #### [^](#toc) Attention Circuit
  | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
 | --- | --- | --- | --- | 
@@ -123,7 +123,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#neg_affect_sad"></a>
+<a id="neg_affect_sad"></a>
 #### [^](#toc) Negative Affect Circuit: Sad
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
@@ -157,7 +157,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#neg_affect_threat_conscious"></a>
+<a id="neg_affect_threat_conscious"></a>
 #### [^](#toc) Negative Affect Circuit: Threat Conscious
 
 | Circuit Type |  Condition | Task Contrast | Neurosynth Search Criteria |
@@ -186,7 +186,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#neg_affect_threat_nonconscious"></a>
+<a id="neg_affect_threat_nonconscious"></a>
 #### [^](#toc) Negative Affect Circuit: Threat Nonconscious
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
@@ -211,7 +211,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#pos_affect_happy"></a>
+<a id="pos_affect_happy"></a>
 #### [^](#toc) Positive Affect Circuit: Happy
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
@@ -234,7 +234,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 ---
 
-<a id="#cognitive_control"></a>
+<a id="cognitive_control"></a>
 #### [^](#toc) Cognitive Control Circuit   
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
