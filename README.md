@@ -1,7 +1,16 @@
 <a id="toc"></a>
-[Summary](#summary)
-[Usage](#usage)
-[Definitions](#definitions)
+# Contents
+1.) [Summary](#summary)  
+2.) [Usage](#usage)  
+3.) [Definitions](#definitions)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.1) [Default Mode Circuit](#dmn)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.2) [Salience Circuit](#salience)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.3) [Attention Circuit](#attention)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.4) [Negative Affect Circuit: Sad](#neg_affect_sad)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.5) [Negative Affect Circuit: Threat Conscious](#neg_affect_threat_conscious)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.6) [Negative Affect Circuit: Threat Nonconscious](#neg_affect_threat_nonconscious)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.7) [Positive Affect Circuit: Happy](#pos_affect_happy)  
+&nbsp;&nbsp;&nbsp;&nbsp; 3.8) [Cognitive Control Circuit](#cognitive_control)  
 
 <a id="#summary"></a>
 ## [^](#toc) Summary  
@@ -50,7 +59,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>D2,D4</sub> | AG L with PCC  | Intrinsic FC | |   
 | C<sub>D3,D4</sub> | AG R with PCC  | Intrinsic FC | | 
 
-#### Salience Circuit
+<br>
+---
+<a id="#salience"></a>
+#### [^](#toc) Salience Circuit
 | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
 | --- | --- | --- | --- | 
 | Intrinsic | Task-free | --- | Terms = "salience network"; "salience" <br><br> Number of studies = 60; 269 <br><br> Search Date = 6.4.17 |
@@ -72,7 +84,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 |  C<sub>S2,S4</sub> | aI R with Amygdala R  |  Intrinsic FC | (-C<sub>S1,S3</sub> - C<sub>S2,S4</sub> - C<sub>S1,S2</sub>)/3 |   
 |  C<sub>S1,S2</sub> | aI L with aI R  | Intrinsic FC | |
 
-####  Attention Circuit
+<br>
+---
+<a id="#attention"></a>
+#### [^](#toc) Attention Circuit
  | Circuit Type |   Condition | Task Contrast | Neurosynth Search criteria |
 | --- | --- | --- | --- | 
 | Intrinsic | Task-free | --- | Terms = "frontoparietal network"; "attention" <br><br> Number of studies = 1447; 79 <br><br> Search Date = 6.4.17 |
@@ -100,7 +115,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>A4,A6</sub> | aIPL L with precuneus L | Intrinsic FC
 | C<sub>A5,A7</sub> | aIPL R with precuneus R | Intrinsic FC
 
-#### Negative Affect Circuit: Sad
+<br>
+---
+<a id="#neg_affect_sad"></a>
+#### [^](#toc) Negative Affect Circuit: Sad
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
 | Task-evoked | Conscious Facial Emotion Viewing | Sad vs Neutral based on standardized facial emotion stimuli | Term = "threat" <br> Number of studies = 170 <br> Search Date = 6.4.17 |
@@ -130,8 +148,9 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>N1,N5</sub>* | [pgACC to Amygdala R + Amygdala R to pgACC]/2 |  PPI | |
 
 <br>
-
-#### Negative Affect Circuit: Threat Conscious
+---
+<a id="#neg_affect_threat_conscious"></a>
+#### [^](#toc) Negative Affect Circuit: Threat Conscious
 
 | Circuit Type |  Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
@@ -155,7 +174,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>T1,T2</sub> | [dACC to Amygdala L + Amygdala L to  dACC]/2  |  PPI | |
 | C<sub>T1,T3</sub> | [dACC to Amygdala R + Amygdala R to dACC]/2  |   PPI | |
 
-#### Negative Affect Circuit: Threat Nonconscious
+<br>
+---
+<a id="#neg_affect_threat_nonconscious"></a>
+#### [^](#toc) Negative Affect Circuit: Threat Nonconscious
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
@@ -175,7 +197,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | C<sub>T1,T2</sub>† | [sgACC  to Amygdala L + Amygdala L to  sgACC]/2 | PPI | |
 | C<sub>T1,T3</sub>† | [sgACC to Amygdala R + Amygdala R to  sgACC]/2  | PPI | |
 
-#### Positive Affect Circuit: Happy
+<br>
+---
+<a id="#pos_affect_happy"></a>
+#### [^](#toc) Positive Affect Circuit: Happy
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
@@ -193,7 +218,10 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | A<sub>P2</sub> |    Striatum L |     BOLD activation | (-A<sub>P1</sub> - A<sub>P2</sub> - A<sub>P3</sub>)/3 |
 | A<sub>P3</sub> |    Striatum R |     BOLD activation | |
 
-#### Cognitive Control Circuit   
+<br>
+---
+<a id="#cognitive_control"></a>
+#### [^](#toc) Cognitive Control Circuit   
 
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
