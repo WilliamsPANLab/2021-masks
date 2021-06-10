@@ -42,12 +42,12 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 <br>
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- | 
-| D1 | amPFC   | 22.0    | -2, 50, -6 |
-| D2 | AG L    | 26.1    | -46, -70, 32 |
-| D3 | AG R    | 20.6    | 50, -62, 26 |
-| D4 | PCC     | 29.8    | 0, -50, 28 |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| D1 | amPFC   | 22.0    | -2, 50, -6 | `Medial_amPFC_DefaultModeNetwork_n2_50_n6.nii.gz` |
+| D2 | AG L    | 26.1    | -46, -70, 32 | `Left_AG_DefaultModeNetwork_n46_n70_32.nii.gz` |
+| D3 | AG R    | 20.6    | 50, -62, 26 | `Right_AG_DefaultModeNetwork_50_n62_26.nii.gz` |
+| D4 | PCC     | 29.8    | 0, -50, 28 | `Medial_PCC_DefaultModeNetwork_0_n50_28.nii.gz` |
 
 <br>
 
@@ -71,12 +71,12 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
  
  <br>
  
- | Region label |  Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- | 
-|  S1  |   aI L |   11.9 |   -38, 14, -6 |
-|  S2  |   aI R |   14.8 |   38, 18, 2 |
-|  S3  |   Amygdala L  |    6.9  |   AAL |
-|  S4  |   Amygdala R  |    14.7  |  AAL |
+ | Region label |  Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- | 
+|  S1  |   aI L |   11.9 |   -38, 14, -6 | `Left_antInsula_Salience_n38_14_n6.nii.gz` |
+|  S2  |   aI R |   14.8 |   38, 18, 2 | `Right_antInsula_Salience_38_18_2.nii.gz` |
+|  S3  |   Amygdala L  |    6.9  |   AAL | `Left_Amygdala_Salience.nii.gz` |
+|  S4  |   Amygdala R  |    14.7  |  AAL | `Right_Amygdala_Salience.nii.gz` |
 
  <br>
 
@@ -98,15 +98,15 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 <br>
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
- | --- | --- | --- | --- | 
-|  A1  |   msPFC  | 10.4  |  -2, 14, 52 |
-|  A2  |   LPFC L | 13.9  |  -44, 6, 32 |
-|  A3  |   LPFC R | 11.3  |  50, 10, 28 |
-|  A4  |   aIPL L | 10.4  |  -30, -54, 40 |
-|  A5  |   aIPL R | 10.4  |  38, -56, 48 |
-|  A6  |   Precuneus L  |   13.0  |  -14, -66, 52 |
-|  A7  |   Precuneus R  |   11.3  |  18, -68, 52 |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+ | --- | --- | --- | --- | --- |
+|  A1  |   msPFC  | 10.4  |  -2, 14, 52 | `Medial_msPFC_Attention_n2_14_52.nii.gz` |
+|  A2  |   LPFC L | 13.9  |  -44, 6, 32 | `Left_lPFC_Attention_n44_6_32.nii.gz` |
+|  A3  |   LPFC R | 11.3  |  50, 10, 28 | `Right_lPFC_Attention_50_10_28.nii.gz` |
+|  A4  |   aIPL L | 10.4  |  -30, -54, 40 | `Left_aIPL_Attention_n30_n54_40.nii.gz` |
+|  A5  |   aIPL R | 10.4  |  38, -56, 48 | `Right_aIPL_Attention_38_n56_48.nii.gz` |
+|  A6  |   Precuneus L  |   13.0  |  -14, -66, 52 | `Left_precuneus_Attention_n14_n66_52.nii.gz` |
+|  A7  |   Precuneus R  |   11.3  |  18, -68, 52 | `Right_precuneus_Attention_18_n68_52.nii.gz` |
 
 <br>
 
@@ -131,13 +131,13 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 <br>
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- |
-| N1 |     pgACC* | 6.3  |   6, 42, 4 |
-| N2 |     aI L   | 17.4 |   -36, 20, -4 |
-| N3 |     aI R   | 16.1 |   38, 22, -4 |
-| N4 |     Amygdala L |     28.4  |  AAL |
-| N5 |     Amygdala R |     25.2  |  AAL |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| N1 |     pgACC* | 6.3  |   6, 42, 4 | `Medial_pgACC_NegativeAffect_n6_42_n4.nii.gz` |
+| N2 |     aI L   | 17.4 |   -36, 20, -4 | `Left_antInsula_NegativeAffect_n36_20_n4.nii.gz` |
+| N3 |     aI R   | 16.1 |   38, 22, -4 | Right_antInsula_NegativeAffect_38_22_n4.nii.gz |
+| N4 |     Amygdala L |     28.4  |  AAL | `Left_Amygdala_NegativeAffect.nii.gz` |
+| N5 |     Amygdala R |     25.2  |  AAL | `Right_Amygdala_NegativeAffect.nii.gz` |
 
 <br>
 
@@ -166,11 +166,11 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 <br>
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- |
-| T1 |     dACC   | 8.2    | 6, 22, 32 |
-| T2 |     Amygdala L      | 28.4 | AAL |
-| T3 |     Amygdala R      | 25.2 | AAL |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| T1 |     dACC   | 8.2    | 6, 22, 32 | `Medial_dACC_NegativeAffect_6_22_32.nii.gz` |
+| T2 |     Amygdala L      | 28.4 | AAL | `Left_Amygdala_NegativeAffect.nii.gz` |
+| T3 |     Amygdala R      | 25.2 | AAL | `Right_Amygdala_NegativeAffect.nii.gz` |
 
 <br>
 
@@ -193,11 +193,11 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | --- | --- | --- | --- |
 | Task-evoked | Nonconscious Facial Emotion Viewing | Fear/Anger vs Neutral based on standardized facial emotion stimuli | Term = "threat" <br><br> Number of studies = 170 <br><br> Search Date = 6.4.17 |
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- |
-| T1 |     sgACC†  | 5.6    | 4, 26, -10
-| T2 |     Amygdala L     | 28.4   | AAL
-| T3 |     Amygdala R     | 25.2   | AAL
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| T1 |     sgACC†  | 5.6    | 4, 26, -10 | `Medial_sgACC_NegativeAffect_4_26_n10` |
+| T2 |     Amygdala L     | 28.4   | AAL | `Left_Amygdala_NegativeAffect.nii.gz` |
+| T3 |     Amygdala R     | 25.2   | AAL | `Right_Amygdala_NegativeAffect.nii.gz` |
 
 | Computed inputs | Anatomical combinations | Input Metric | Circuit Dysfunction Score Formula |
 | --- | --- | --- | --- |
@@ -218,11 +218,11 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | --- | --- | --- | --- |
 | Task-evoked | Conscious Facial Emotion Viewing | Happy vs Neutral based on standardized facial emotion stimuli | Terms = "monetary reward"; "reward" <br><br> Number of studies = 84; 671 <br><br> Search Date = 6.4.17 |
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- |
-| P1 |     vMPFC  | 13.1  |  -2, 56, -8 |
-| P2 |     Striatum L  |    14.0  |  FSL |
-| P3 |     Striatum R  |    7.9   |  FSL |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| P1 |     vMPFC  | 13.1  |  -2, 56, -8 | `Medial_vmPFC_PositiveAffect_n2_56_n8.nii.gz` |
+| P2 |     Striatum L  |    14.0  |  FSL | `Left_vStriatum_PositiveAffect.nii.gz` |
+| P3 |     Striatum R  |    7.9   |  FSL | `Right_vStriatum_PositiveAffect.nii.gz` |
 
 | Computed inputs | Anatomical combinations | Input Metric | Circuit Dysfunction Score Formula |
 | --- | --- | --- | --- |
@@ -241,11 +241,11 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | --- | --- | --- | --- |
 | Task-evoked | Go-NoGo task | No-Go vs. Go | Terms = "cognitive control" <br><br> Number of studies = 428 <br><br> Search Date = 6.4.17 |
 
-| Region label | Region anatomy | Z Value | Template coordinates and definitions |
-| --- | --- | --- | --- |
-| C1 |     dACC    | 20.0 |   0, 18, 46 |
-| C2 |     DLPFC L | 20.4 |   -44, 6, 32 |
-| C3 |     DLPFC R | 12.4 |   44, 34, 22 |
+| Region label | Region anatomy | Z Value | Template coordinates and definitions | Filename |
+| --- | --- | --- | --- | --- |
+| C1 |     dACC    | 20.0 |   0, 18, 46 | `Medial_dACC_CognitiveControl_0_18_46.nii.gz` |
+| C2 |     DLPFC L | 20.4 |   -44, 6, 32 | `Left_dlPFC_CognitiveControl_n44_6_32.nii.gz` |
+| C3 |     DLPFC R | 12.4 |   44, 34, 22 | `Right_dlPFC_CognitiveControl_44_34_22.nii.gz` |
 
 | Computed inputs | Anatomical combinations | Input Metric | Circuit Dysfunction Score Formula |
 | --- | --- | --- | --- |
