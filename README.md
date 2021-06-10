@@ -135,7 +135,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | --- | --- | --- | --- | --- |
 | N1 |     pgACC* | 6.3  |   6, 42, 4 | `Medial_pgACC_NegativeAffect_n6_42_n4.nii.gz` |
 | N2 |     aI L   | 17.4 |   -36, 20, -4 | `Left_antInsula_NegativeAffect_n36_20_n4.nii.gz` |
-| N3 |     aI R   | 16.1 |   38, 22, -4 | Right_antInsula_NegativeAffect_38_22_n4.nii.gz |
+| N3 |     aI R   | 16.1 |   38, 22, -4 | `Right_antInsula_NegativeAffect_38_22_n4.nii.gz` |
 | N4 |     Amygdala L |     28.4  |  AAL | `Left_Amygdala_NegativeAffect.nii.gz` |
 | N5 |     Amygdala R |     25.2  |  AAL | `Right_Amygdala_NegativeAffect.nii.gz` |
 
