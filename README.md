@@ -122,6 +122,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | Task-evoked | Conscious Facial Emotion Viewing | Fear/Anger vs Neutral based on standardized facial emotion stimuli | Term = "threat" <br><br> Number of studies = 170 <br><br> Search Date = 6.4.17 |
 
 <br>
+
 | Region anatomy | Z Value | Template coordinates and definitions | Filename |
 | --- | --- | --- | --- |
 | dACC   | 8.2    | 6, 22, 32 | `Medial_dACC_NegativeAffect_6_22_32.nii.gz` |
@@ -138,6 +139,8 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
 | Task-evoked | Nonconscious Facial Emotion Viewing | Fear/Anger vs Neutral based on standardized facial emotion stimuli | Term = "threat" <br><br> Number of studies = 170 <br><br> Search Date = 6.4.17 |
+
+<br>
 
 | Region anatomy | Z Value | Template coordinates and definitions | Filename |
 | --- | --- | --- | --- |
@@ -156,6 +159,8 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | --- | --- | --- | --- |
 | Task-evoked | Conscious Facial Emotion Viewing | Happy vs Neutral based on standardized facial emotion stimuli | Terms = "monetary reward"; "reward" <br><br> Number of studies = 84; 671 <br><br> Search Date = 6.4.17 |
 
+<br>
+
 | Region anatomy | Z Value | Template coordinates and definitions | Filename |
 | --- | --- | --- | --- |
 | vMPFC  | 13.1  |  -2, 56, -8 | `Medial_vmPFC_PositiveAffect_n2_56_n8.nii.gz` |
@@ -172,6 +177,8 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 | Circuit Type | Condition | Task Contrast | Neurosynth Search Criteria |
 | --- | --- | --- | --- |
 | Task-evoked | Go-NoGo task | No-Go vs. Go | Terms = "cognitive control" <br><br> Number of studies = 428 <br><br> Search Date = 6.4.17 |
+
+<br>
 
 | Region anatomy | Z Value | Template coordinates and definitions | Filename |
 | --- | --- | --- | --- |
