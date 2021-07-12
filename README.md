@@ -26,7 +26,7 @@ Andrea N Goldstein-Piekarski<sup>†</sup>, Tali M Ball<sup>†</sup>, Zoe Samar
 
 Please include the following citation:
 
->Goldstein-Piekarski A, Ball T, Samara Z, Staveland B, Keller A, Fleming S, Grisanzio K, Holt-Gosselin B, Stetz P, Ma J, & Williams L. Mapping neural circuit biotypes to symptoms and behavioral dimensions of depression and anxiety. Biological Psychiatry. 2021; doi: ??? 
+>Goldstein-Piekarski A, Ball T, Samara Z, Staveland B, Keller A, Fleming S, Grisanzio K, Holt-Gosselin B, Stetz P, Ma J, & Williams L. Mapping neural circuit biotypes to symptoms and behavioral dimensions of depression and anxiety. Biological Psychiatry. 2021; doi: [https://doi.org/10.1016/j.biopsych.2021.06.024](https://doi.org/10.1016/j.biopsych.2021.06.024 ) 
 
 To download the files, please click [here](https://github.com/WilliamsPANLab/2021-masks/archive/refs/heads/master.zip) or clone the repository
 
