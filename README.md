@@ -144,7 +144,7 @@ To download the files, please click [here](https://github.com/WilliamsPANLab/202
 
 | Region anatomy | Z Value | Template coordinates and definitions | Filename |
 | --- | --- | --- | --- |
-| sgACC  | 5.6    | 4, 26, -10 | `Medial_sgACC_NegativeAffect_4_26_n10` |
+| sgACC  | 5.6    | 4, 26, -10 | `Medial_sgACC_NegativeAffect_4_26_n10.nii.gz` |
 | Amygdala L     | 28.4   | AAL | `Left_Amygdala_NegativeAffect.nii.gz` |
 | Amygdala R     | 25.2   | AAL | `Right_Amygdala_NegativeAffect.nii.gz` |
 
